@@ -1,0 +1,17 @@
+body {
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+.tamrin {
+    text-align: center;
+    margin-top: 25vh;
+}
+.container {
+    text-align: center;
+}
+.click {
+    padding: 3vh 6vh 3vh 6vh;
+    border: none;
+    border-radius: 2vh;
+}
